@@ -1,0 +1,7 @@
+sevir/autobots-kubernetes - alterado
+sevir/gitlab - alterado
+sevir/rancher-operator - alterado
+sevir/automatizar_upgrade_vsphere - alterado
+sevir/bot_jetfire alterado
+sevir/bot_otrs - alretado. O repositorio não está sendo utilizado. Todas as funções foram migradas para o Alfred
+sevir/bot-hubot-alfred - removido o arquivo .env e .env_prod que não devem estar no git
